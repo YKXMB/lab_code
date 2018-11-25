@@ -1,0 +1,6 @@
+﻿1>------ 已启动生成: 项目: Project1, 配置: Debug Win32 ------
+1>4_01.cpp
+1>c:\users\52470\source\repos\project1\project1\4_01.cpp(50): warning C4551: 缺少参数列表的函数调用
+1>Project1.vcxproj -> C:\Users\52470\source\repos\Project1\Debug\Project1.exe
+1>已完成生成项目“Project1.vcxproj”的操作。
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
